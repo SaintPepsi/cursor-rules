@@ -94,8 +94,10 @@ cursor-rules
 
 ## Rules
 
-- [Naming Conventions Cheatsheet](./rules/naming-cheatsheet.mdc)
-- [Add more rules here...]
+- [Code Styling Guide](./rules/code-styling-guide.mdc) - Guidelines for code style and structure
+- [DRY & SOLID Principles](./rules/dry-solid.mdc) - Principles for optimizing code
+- [Naming Conventions Cheatsheet](./rules/naming-cheatsheet.mdc) - Comprehensive naming guidelines
+- [SvelteKit TypeScript Guide](./rules/sveltekit-typescript-guide-cursorrules-prompt-file.mdc) - Guidelines for SvelteKit and TypeScript development
 
 ## Contributing
 
