@@ -2,6 +2,8 @@
 
 This repository contains Cursor rules that can be easily exported and imported across different projects.
 
+> For more Cursor rules and inspiration, check out [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules), a curated list of awesome .cursorrules files for various technologies and frameworks.
+
 ## Structure
 
 ```
